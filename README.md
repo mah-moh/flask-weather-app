@@ -1,5 +1,5 @@
 # flask-weather-app
-A simple weather app that fectches weather data from [OpenWeather](openweathermap.org) using flask microframework.
+A simple weather app that fectches weather data from [OpenWeather](https://openweathermap.org/) using flask microframework.
 
 # Built With
 ```
