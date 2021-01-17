@@ -18,4 +18,5 @@ Use sqllite3
 ```
 $ git clone [repo-link]
 $ cd flask-weather-app
-$ python app.py```
+$ python app.py
+```
