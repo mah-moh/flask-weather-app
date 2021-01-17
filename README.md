@@ -11,6 +11,7 @@ Use Requests library for handling API requests
 Use sqllite3 
 
 # How to use
+```
 $ git clone [repo-link]
 $ cd flask-weather-app
-$ python app.py
+$ python app.py```
