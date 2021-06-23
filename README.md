@@ -16,7 +16,8 @@ Use sqllite3
 
 # How to use
 ```
-$ git clone [repo-link]
+$ git clone https://github.com/mah-moh/flask-weather-app.git
 $ cd flask-weather-app
+$ pip install -r requirements.txt
 $ python app.py
 ```

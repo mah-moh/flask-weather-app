@@ -42,7 +42,7 @@ def home():
 
         weather_data.append(weather)
 
-    return render_template('weather.html', weather_data=weather_data)
+    return render_template('index.html', weather_data=weather_data)
 
 if __name__ == '__main__':
     app.run(debug=True)
