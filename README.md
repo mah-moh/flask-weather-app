@@ -1,6 +1,8 @@
 # flask-weather-app
 A simple weather app that fectches weather data from [OpenWeather](https://openweathermap.org/) using flask microframework.
 
+# [Live Demo](https://flask-weatherapp.herokuapp.com/)
+
 # Built With
 ```
 Flask
